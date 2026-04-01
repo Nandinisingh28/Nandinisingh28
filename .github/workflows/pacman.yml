@@ -25,7 +25,15 @@ jobs:
           github_user_name: Nandinisingh28
 
       - name: Rename SVG for README match
-        run: mv pacman-contribution-graph.svg pacman-contributions.svg
+        run: |
+          # Find the generated pacman file (it is usually placed in a dist/ folder)
+          PACMAN_SVG=$(find . -name "*pacman*.svg" | head -n 1)
+          if [ -n "$PACMAN_SVG" ]; then
+            mv "$PACMAN_SVG" pacman-contributions.svg
+          else
+            echo "Failed to find the generated SVG!"
+            exit 1
+          fi
 
       - name: Commit and Push to Main Branch
         uses: stefanzweifel/git-auto-commit-action@v5
