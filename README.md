@@ -283,5 +283,5 @@
 ---
 
 <p align="center">
-  <img src="pacman-contributions.svg">
+  <img src="pacman-contributions.svg?v=1">
 </p>
