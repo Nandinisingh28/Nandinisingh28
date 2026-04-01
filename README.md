@@ -206,7 +206,7 @@
 <div align="center">
 
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nandinisingh28&theme=tokyonight&hide_border=false" width="500"/>
+  <img src="https://streak-stats.demolab.com/?user=Nandinisingh28&theme=tokyonight&hide_border=false" width="500"/>
   <br/>
 
 ![Stats](https://github-stats-alpha.vercel.app/api?username=Nandinisingh28&cc=1a1b27&tc=A9FEF7&ic=C77DFF&bc=1a1b27)
@@ -223,7 +223,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nandinisingh28&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
@@ -278,10 +278,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="pacman-contributions.svg">
-</p>
-
-
-# Nandinisingh28
