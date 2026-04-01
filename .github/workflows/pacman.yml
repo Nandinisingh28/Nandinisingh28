@@ -1,0 +1,36 @@
+name: GitHub Profile Pacman Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch: # Allows you to manually trigger it
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-pacman:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Nandinisingh28
+
+      - name: Rename SVG for README match
+        run: mv pacman-contribution-graph.svg pacman-contributions.svg
+
+      - name: Commit and Push to Main Branch
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Pacman Contribution Graph [skip ci]"
+          file_pattern: 'pacman-contributions.svg'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
