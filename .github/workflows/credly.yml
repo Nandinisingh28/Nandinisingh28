@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # Runs once per day
   workflow_dispatch:     # Allows manual run
 
+permissions:
+  contents: write
+
 jobs:
   update-badges:
     runs-on: ubuntu-latest
