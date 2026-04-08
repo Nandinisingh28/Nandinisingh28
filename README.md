@@ -47,24 +47,24 @@
 </p>
 
 
-#  🏄‍♀️ Nandini Singh
+#   Nandini Singh
  <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-# 💫 About Me:
+#  About Me:
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at **Christ University, Bengaluru**
-- 💼 Former **Salesforce Developer Intern** at Arka Inventory
-- 🌟 Passionate about building web applications that solve real-world problems
+-  Pursuing **Master of Computer Applications (MCA)** at **Christ University, Bengaluru**
+-  Former **Salesforce Developer Intern** at Arka Inventory
+-  Passionate about building web applications that solve real-world problems
   
-🔧 **I'm currently working on:**<br>Enhancing my skills in Machine Learning, Cloud Computing, and Full-Stack Development while building innovative projects at Christ University.<br><br>🤝 **I'm looking to collaborate on:**<br>Full-stack web applications, ML-powered tools, data analysis projects, and open-source contributions that create real impact.<br><br>📚 **I'm currently learning:**<br>Advanced Machine Learning, Cloud Technologies (AWS), Data Structures & Algorithms, and modern web frameworks.<br><br>❓ **Ask me about:**<br>Python, Java, Salesforce, Web Development, Machine Learning, NLP-based applications, or building end-to-end projects.<br><br>🎉 **Fun fact:**<br>I've been an emcee for numerous events at Christ University — I can code *and* command a stage! 🎤<br><br>
+ **I'm currently working on:**<br>Enhancing my skills in Machine Learning, Cloud Computing, and Full-Stack Development while building innovative projects at Christ University.<br><br>🤝 **I'm looking to collaborate on:**<br>Full-stack web applications, ML-powered tools, data analysis projects, and open-source contributions that create real impact.<br><br>📚 **I'm currently learning:**<br>Advanced Machine Learning, Cloud Technologies (AWS), Data Structures & Algorithms, and modern web frameworks.<br><br>❓ **Ask me about:**<br>Python, Java, Salesforce, Web Development, Machine Learning, NLP-based applications, or building end-to-end projects.<br><br>🎉 **Fun fact:**<br>I've been an emcee for numerous events at Christ University — I can code *and* command a stage! 🎤<br><br>
 
 
 ---
 
-# 💻 My favorite tools and technologies
+#  My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -167,12 +167,12 @@
 
 ---
 
-# 🚀 Academic Projects
+#  Academic Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 DYSAID — Dyslexia Screening Web App</h3>
+      <h3 align="center"> DYSAID — Dyslexia Screening Web App</h3>
       <p align="center">
         Machine Learning web app using Decision Tree algorithm to identify risk of dyslexia in children below 12. Features data preprocessing, important feature selection, and model evaluation with a Streamlit interface for early, non-invasive screening.
       </p>
@@ -183,7 +183,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🥗 NutriLens — Nutrition Label Analyzer</h3>
+      <h3 align="center"> NutriLens — Nutrition Label Analyzer</h3>
       <p align="center">
         Full-stack web application using OCR (Tesseract + OCR.space) to scan food packaging and extract nutritional data. Features NLP-based parsing, Random Forest ML model for health scoring, and a rule-based engine for verifying marketing claims.
       </p>
@@ -199,13 +199,13 @@
 
 ---
 
-# 📝 Research
+#  Research
 
-- 📄 **Unveiling Sentiment Trends:** An Approach to Utilize Machine Learning in Studying User Activities on New Social Applications — Research paper using decision tree algorithms for sentiment analysis across various datasets.
+-  **Unveiling Sentiment Trends:** An Approach to Utilize Machine Learning in Studying User Activities on New Social Applications — Research paper using decision tree algorithms for sentiment analysis across various datasets.
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 <div align="center">
 
   <br/>
@@ -222,7 +222,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nandinisingh28&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <div align="center">
@@ -240,7 +240,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
@@ -250,7 +250,7 @@
 
 ---
 
-## 🏅 Certifications & Badges
+##  Certifications & Badges
 
 <!-- CREDLY_BADGES_START -->
 
@@ -268,7 +268,7 @@
 
 <!-- CREDLY_BADGES_END -->
 
-### 📜 Other Certifications
+###  Other Certifications
 
 <p>
   <img src="https://img.shields.io/badge/Machine_Learning_using_Python-Simplilearn_(June_2024)-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
