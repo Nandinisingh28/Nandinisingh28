@@ -24,47 +24,50 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h3 align="left">
+<p align="left">
   <img 
-    alt="Glad To See You Here!" 
     src="https://img.shields.io/badge/Glad%20To%20See%20You%20Here%20!-7C4DFF?style=for-the-badge&logoColor=white"
-    width="180"
     height="30"
   >
-</h3>
- &nbsp;&nbsp;<img 
-  src="https://komarev.com/ghpvc/?username=Nandinisingh28&label=Profile%20Views&color=7C4DFF&style=for-the-badge" 
-  alt="Profile Views"
-  width="150"
-  height="28"
-/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/nandinisingh28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="mailto:namethia28@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
-  <a href="https://leetcode.com/u/Nandinisingh28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://komarev.com/ghpvc/?username=Nandinisingh28&label=Profile%20Views&color=7C4DFF&style=for-the-badge"
+    height="30"
+  >
 </p>
 
+<p align="left">
+  <b>Connect with me:</b>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/nandinisingh28/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:namethia28@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Nandinisingh28/" target="_blank">
+   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+</p>
 
 #   Nandini Singh
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
-#  About Me:
+##  About Me:
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
 
 -  Pursuing **Master of Computer Applications (MCA)** at **Christ University, Bengaluru**
 -  Former **Salesforce Developer Intern** at Arka Inventory
 -  Passionate about building web applications that solve real-world problems
   
- **I'm currently working on:**<br>Enhancing my skills in Machine Learning, Cloud Computing, and Full-Stack Development while building innovative projects at Christ University.<br><br>🤝 **I'm looking to collaborate on:**<br>Full-stack web applications, ML-powered tools, data analysis projects, and open-source contributions that create real impact.<br><br>📚 **I'm currently learning:**<br>Advanced Machine Learning, Cloud Technologies (AWS), Data Structures & Algorithms, and modern web frameworks.<br><br>❓ **Ask me about:**<br>Python, Java, Salesforce, Web Development, Machine Learning, NLP-based applications, or building end-to-end projects.<br><br>🎉 **Fun fact:**<br>I've been an emcee for numerous events at Christ University — I can code *and* command a stage! 🎤<br><br>
+ **I'm currently working on:**<br>Enhancing my skills in Machine Learning, Cloud Computing, and Full-Stack Development while building innovative projects at Christ University.<br><br> **I'm looking to collaborate on:**<br>Full-stack web applications, ML-powered tools, data analysis projects, and open-source contributions that create real impact.<br><br> **I'm currently learning:**<br>Advanced Machine Learning, Cloud Technologies (AWS), Data Structures & Algorithms, and modern web frameworks.<br><br> **Ask me about:**<br>Python, Java, Salesforce, Web Development, Machine Learning, NLP-based applications, or building end-to-end projects.<br><br> **Fun fact:**<br>I've been an emcee for numerous events at Christ University — I can code *and* command a stage! 🎤<br><br>
 
 
 ---
 
-#  My favorite tools and technologies
+##  My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -167,7 +170,7 @@
 
 ---
 
-#  Academic Projects
+##  Academic Projects
 
 <table>
   <tr>
@@ -199,13 +202,13 @@
 
 ---
 
-#  Research
+##  Research
 
 -  **Unveiling Sentiment Trends:** An Approach to Utilize Machine Learning in Studying User Activities on New Social Applications — Research paper using decision tree algorithms for sentiment analysis across various datasets.
 
 ---
 
-#  GitHub Stats:
+##  GitHub Stats:
 <div align="center">
 
   <br/>
