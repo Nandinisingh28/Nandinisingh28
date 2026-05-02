@@ -2,8 +2,8 @@ name: GitHub Profile Pacman Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
-  workflow_dispatch: # Allows you to manually trigger it
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,31 +14,23 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ✅ FIX 1
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        
+
       - name: Generate Pacman Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Nandinisingh28
 
-      - name: Rename SVG for README match
-        run: |
-          # Find the generated pacman file (it is usually placed in a dist/ folder)
-          PACMAN_SVG=$(find . -name "*pacman*.svg" | head -n 1)
-          if [ -n "$PACMAN_SVG" ]; then
-            mv "$PACMAN_SVG" pacman-contributions.svg
-          else
-            echo "Failed to find the generated SVG!"
-            exit 1
-          fi
-
-      - name: Commit and Push to Main Branch
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          commit_message: "Update Pacman Contribution Graph [skip ci]"
-          file_pattern: 'pacman-contributions.svg'
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
