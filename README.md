@@ -286,5 +286,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
 </p>
