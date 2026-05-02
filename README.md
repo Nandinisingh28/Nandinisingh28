@@ -286,5 +286,5 @@
 ---
 
 <p align="center">
-  <img src="pacman-contributions.svg?v=1">
+  <img src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph.svg">
 </p>
