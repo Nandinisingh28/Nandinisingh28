@@ -1,5 +1,6 @@
 <p align="center">
     <img src="jp.gif" width="1000">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
@@ -53,7 +54,7 @@
 
 </p>
 
-#   Nandini Singh
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##  About Me:
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif">
@@ -62,7 +63,7 @@
 -  Former **Salesforce Developer Intern** at Arka Inventory
 -  Passionate about building web applications that solve real-world problems
   
- **I'm currently working on:**<br>Enhancing my skills in Machine Learning, Cloud Computing, and Full-Stack Development while building innovative projects at Christ University.<br><br> **I'm looking to collaborate on:**<br>Full-stack web applications, ML-powered tools, data analysis projects, and open-source contributions that create real impact.<br><br> **I'm currently learning:**<br>Advanced Machine Learning, Cloud Technologies (AWS), Data Structures & Algorithms, and modern web frameworks.<br><br> **Ask me about:**<br>Python, Java, Salesforce, Web Development, Machine Learning, NLP-based applications, or building end-to-end projects.<br><br> **Fun fact:**<br>I've been an emcee for numerous events at Christ University — I can code *and* command a stage! 🎤<br><br>
+ **I'm currently working on:**<br>Enhancing my skills in Machine Learning, Cloud Computing, and Full-Stack Development while building innovative projects at Christ University.<br><br> **I'm looking to collaborate on:**<br>Full-stack web applications, ML-powered tools, data analysis projects, and open-source contributions that create real impact.<br><br> **I'm currently learning:**<br>Advanced Machine Learning, Cloud Technologies (AWS), Data Structures & Algorithms, and modern web frameworks.<br><br> **Ask me about:**<br>Python, Java, Salesforce, Web Development, Machine Learning, NLP-based applications, or building end-to-end projects.<br><br> **Fun fact:**<br>I've been an emcee for numerous events at Christ University — I can code *and* command a stage! <br>
 
 
 ---
@@ -163,12 +164,10 @@
     </td>
   </tr>
 </table>
-<br><br>
+<br>
 
 
 </div>
-
----
 
 ##  Academic Projects
 
@@ -249,11 +248,7 @@
 </div>
 
   
-</div>
-
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+---
 
 ##  GitHub Trophies
 <div align="center">
@@ -264,11 +259,7 @@
   />
 </div>
 
-
-[![](https://visitcount.itsvg.in/api?id=Nandinisingh28&icon=7&color=6)](https://visitcount.itsvg.in)
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+---
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nandinisingh28&theme=tokyonight)
 
