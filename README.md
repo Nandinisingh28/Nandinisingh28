@@ -197,7 +197,38 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
     </td>
-  </tr>
+  </tr>  
+
+<tr>
+  <td colspan="2" width="100%">
+    <h3 align="center">
+      <a href="https://github.com/eersay/MAGE" target="_blank">
+        MAGE — Multi-Agent EDA System
+      </a>
+    </h3>
+    <p align="center">
+      A multi-agent, goal-conditioned exploratory data analysis
+      system that accepts datasets in CSV, Excel, and JSON formats
+      and normalizes them into a unified schema. Features
+      ReAct-based orchestration across eight modules and
+      RAG-grounded recommendations retrieved from a ChromaDB
+      vector store. Includes a PostgreSQL-backed data layer,
+      role-adaptive outputs, and JWT-secured, rate-limited APIs.
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChromaDB-5B3CC4?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-7C4DFF?style=flat-square"/>
+    </p>
+    <p align="center">
+      <a href="https://github.com/eersay/MAGE">
+        <img src="https://img.shields.io/badge/View%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </p>
+  </td>
+</tr>
 </table>
 
 ---
