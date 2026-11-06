@@ -73,28 +73,28 @@
   <tr>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
@@ -123,10 +123,10 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <br>GitHub
+</td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
