@@ -227,11 +227,11 @@
 ##  GitHub Trophies
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Nandinisingh28&theme=darkhub"
-    alt="GitHub Trophies"
+    src="./profile/trophy.svg"
+    alt="GitHub Profile Trophies"
+    width="100%"
   />
 </div>
-
 
 
 [![](https://visitcount.itsvg.in/api?id=Nandinisingh28&icon=7&color=6)](https://visitcount.itsvg.in)
