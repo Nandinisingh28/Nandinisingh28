@@ -285,7 +285,25 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
-</p>
+
+<div align="center">
+
+## Pac-Man Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+    width="100%"
+  />
+</picture>
+
+</div>
