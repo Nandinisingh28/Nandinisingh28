@@ -1,34 +1,27 @@
-name: GitHub Profile Pacman Animation
+
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
-  generate-pacman:
-    permissions:
-      contents: write
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ✅ FIX 1
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Pacman Contribution Graph
+      - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Nandinisingh28
+          github_user_name: ${{ github.repository_owner }}
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
