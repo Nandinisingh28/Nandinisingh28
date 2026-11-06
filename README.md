@@ -210,13 +210,12 @@
 
 ##  GitHub Stats:
 <div align="center">
-
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Nandinisingh28&theme=tokyonight&hide_border=false" width="500"/>
-  <br/>
-
-![Stats](https://github-stats-alpha.vercel.app/api?username=Nandinisingh28&cc=1a1b27&tc=A9FEF7&ic=C77DFF&bc=1a1b27)
-
+  <img
+    src="https://raw.githubusercontent.com/Nandinisingh28/Nandinisingh28/snake-output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Contribution Animation"
+    width="100%"
+  />
+</div>
 
   
 </div>
